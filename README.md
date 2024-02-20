@@ -8,8 +8,8 @@ Looking for an oportunity for entry-level intership/job.
 
 #### So stay tunned!
 
-<picture>
-srcset="https://images.app.goo.gl/TSdHUeER1TZ6mmxc7"</picture>
+In meantime have a healthy snack by clicking [here](https://images.app.goo.gl/TSdHUeER1TZ6mmxc7)
+
 
 
 
