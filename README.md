@@ -3,7 +3,14 @@
 I am a student of software engineering with HyperionDev from poland and UK.
 I am learning coding and solving assigments in Python!
 Looking for an oportunity for entry-level intership/job.
+Check my Linkedin profile here. https://www.linkedin.com/in/maciej-naworski-9244282b2/
 
+
+
+
+---
+>“Life is like a box of chocolates, you never know what you're going to get.”
+>Forrest Gump
 
 ##### Welcome to my World!
 
