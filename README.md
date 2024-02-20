@@ -9,7 +9,7 @@ Looking for an oportunity for entry-level intership/job.
 #### So stay tunned!
 
 <picture>
-<srcset>=https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fimages%2Fhealthy-food-art-snack-for-kids-funny-face-on-a-plate%2F309360702&psig=AOvVaw2hi6GXcB4rH0LCWiLGWGCy&ust=1708527726643000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwi0zJPzl7qEAxUsWkEAHdjqDowQjhx6BAgAEBg </srcset>
+srcset="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fimages%2Fhealthy-food-art-snack-for-kids-funny-face-on-a-plate%2F309360702&psig=AOvVaw2hi6GXcB4rH0LCWiLGWGCy&ust=1708527726643000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwi0zJPzl7qEAxUsWkEAHdjqDowQjhx6BAgAEBg"</picture>
 
 
 
