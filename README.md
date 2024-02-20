@@ -3,7 +3,7 @@
 **I am a student of software engineering with HyperionDev from poland and UK.**
 I am learning coding and solving assigments in Python!
 Looking for an oportunity for entry-level intership/job.
-##### Check my Linkedin profile [here]. (https://www.linkedin.com/in/maciej-naworski-9244282b2/)
+##### Check my Linkedin profile [here](https://www.linkedin.com/in/maciej-naworski-9244282b2/).
 You will find here my latest work including world changing projects, however for now you will have to stay patient!
 
 #### So stay tunned!
