@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi, I'm Maciej 👋
+
+I am a student of software engineering with HyperionDev from poland and UK.
+I am learning coding and solving assigments in Python!
+Looking for an oportunity for entry-level intership/job.
+
+
+##### Welcome to my World!
 
 <!--
 **78JEICAM/78JEICAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
